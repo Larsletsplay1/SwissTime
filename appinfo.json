@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Larsletsplay1",
+    "longName": "Schweizer Zeit",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "SchweizerZeit",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "218203aa-5de4-43a8-99b6-ca044a6995cf",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
